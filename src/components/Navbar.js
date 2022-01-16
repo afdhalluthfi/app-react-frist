@@ -21,6 +21,9 @@ export default function Navbar({children}) {
                     <li className="nav-item">
                     <NavLink className="nav-link" to="/contact">contact</NavLink>
                     </li>
+                    <li className="nav-item">
+                    <NavLink className="nav-link" to="/user">user</NavLink>
+                    </li>
                 </ul>
                 </div>
             </div>
